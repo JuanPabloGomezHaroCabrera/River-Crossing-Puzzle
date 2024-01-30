@@ -1,4 +1,4 @@
-# River Crossing Puzzle
+# River Crossing Puzzle Algorithm
 
 ## Description
 River Crossing Puzzle is a type of puzzle where the objective is to transport items from one bank to the other, usually in the fewest possible trips. This project is the algorithm to solve this using Python and OOP.
